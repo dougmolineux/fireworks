@@ -1,0 +1,109 @@
+// !$*UTF8*$!
+{
+	1246660E13E3B2390037F737 /* physics */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = physics;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	1246662213E3B2580037F737 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	1246662313E3B2580037F737 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	1D6058900D05DD3D006BFB54 /* physics */ = {
+		activeExec = 0;
+		executables = (
+			1246660E13E3B2390037F737 /* physics */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 1246660E13E3B2390037F737 /* physics */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* physics */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* physics */,
+		);
+		codeSenseManager = 1246662313E3B2580037F737 /* Code sense */;
+		executables = (
+			1246660E13E3B2390037F737 /* physics */,
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 333689401;
+			PBXWorkspaceStateSaveDate = 333689401;
+		};
+		sourceControlManager = 1246662213E3B2580037F737 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	506EDC2F102F528A00A389B3 /* HelloWorldScene.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 534}}";
+			sepNavSelRange = "{424, 0}";
+			sepNavVisRange = "{0, 431}";
+		};
+	};
+	506EDC30102F528A00A389B3 /* HelloWorldScene.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1182, 2100}}";
+			sepNavSelRange = "{1200, 0}";
+			sepNavVisRange = "{189, 521}";
+		};
+	};
+	506EE05D10304ED200A389B3 /* cocos2d libraries */ = {
+		activeExec = 0;
+	};
+	E0F80F5D120A0182005866B8 /* GameConfig.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 588}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{32, 504}";
+			sepNavWindowFrame = "{{0, 4}, {1440, 874}}";
+		};
+	};
+	E0F80F5E120A0182005866B8 /* RootViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 511}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 224}";
+		};
+	};
+	E0F80F5F120A0182005866B8 /* RootViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1768, 3150}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{1479, 966}";
+		};
+	};
+}
